@@ -182,7 +182,7 @@ Music-Streaming-BI-Analysis/
 
 # 👩‍💻 Author
 
-**Sahar Haghshenas**
+**Emma Haghshenas**
 Master HSIM — Human & System Intelligence for Management
 Business Intelligence • Data Visualization • AI • UX/UI
 
